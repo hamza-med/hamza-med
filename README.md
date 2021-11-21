@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hamza-med
-- 👀 I’m interested in ...Data science
+- 👀 I’m interested in ...Data Science
 - 🌱 I’m currently learning ...DevOps
 - 💞️ I’m looking to collaborate on ...anything
 - 📫 How to reach me ...
