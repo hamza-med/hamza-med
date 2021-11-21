@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hamza-med
+- 👋 Hi, I’m Mohamed HAMZA
 - 👀 I’m interested in ...Data Science
 - 🌱 I’m currently learning ...DevOps
 - 💞️ I’m looking to collaborate on ...anything
