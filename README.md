@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohamed HAMZA
 - 👀 I’m interested in ...Web development
-- 🌱 I’m currently learning ...Web design
+- 🌱 I’m currently learning ...Mobile development
 - 💞️ I’m looking to collaborate on ...anything
 - 📫 How to reach me ...
 
