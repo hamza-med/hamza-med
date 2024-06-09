@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hamza</h1>
 <h3 align="center">A passionate fullstack developer from Tunisia</h3>
-<img align="right" alt="developer" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-med&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-med" /> </p>
 
 
