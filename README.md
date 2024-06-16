@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Mohamed Hamza 👋
 
 ## About Me
 
@@ -22,6 +22,7 @@ I am a Full Stack Web Developer with expertise in both frontend and backend tech
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) **PHP**: Language of choice for Symfony-based backend development.
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) **Java**: Utilized for developing backend applications with Spring Boot.
 
+## Get in Touch
 
 - ![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white) **Email**: [your.email@example.com](mailto:your.email@example.com)
 - ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
