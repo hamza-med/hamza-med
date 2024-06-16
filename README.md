@@ -1,31 +1,75 @@
 # Hello, I'm Mohamed Hamza 👋
 
 ## About Me
+- Full Stack Web Developer with expertise in both frontend and backend technologies.
+- Passionate about creating seamless and efficient web applications.
+- I'm currently open for job opportunities and collaboration on web projects!.
 
-I am a Full Stack Web Developer with expertise in both frontend and backend technologies. My passion lies in creating seamless and efficient web applications that provide great user experiences.
+## Skills
 
-## Frontend Skills
+### 💻 Languages
 
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) **React**: Building interactive UIs, managing state with Redux, and creating reusable components.
-- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) **Next.js**: Server-side rendering, static site generation, and optimized performance for React applications.
-- ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) **Angular**: Developing dynamic single-page applications with TypeScript, using RxJS for reactive programming.
+<div align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
+</div>
 
-## Backend Skills
+### 🖥️ Frontend Skills
 
-- ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white) **Symfony**: Developing robust and scalable web applications with PHP, utilizing the Symfony framework.
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) **Node.js**: Building server-side applications using JavaScript, handling asynchronous operations with Express.js.
-- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) **Spring Boot**: Creating enterprise-level applications in Java, utilizing Spring Boot for rapid development and deployment.
+<div align="center">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</div>
 
-## Languages
+### 🛠️ Backend Skills
 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) **JavaScript/TypeScript**: Primary languages for frontend and Node.js backend development.
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) **PHP**: Language of choice for Symfony-based backend development.
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) **Java**: Utilized for developing backend applications with Spring Boot.
+<div align="center">
+  <img src="https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white" alt="Symfony" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+</div>
+
+### ⚙️ Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+</div>
+
+### 🖥️ Administration
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamza-med&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-med&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-med&theme=radical" alt="GitHub Streak" />
+</div>
 
 ## Get in Touch
 
-- ![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white) **Email**: [your.email@example.com](mailto:your.email@example.com)
-- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) **GitHub**: [Your GitHub Profile](https://github.com/yourprofile)
+<div align="center">
+  <a href="mohamed.hamza@enicar.ucar.tn">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-hamza2/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/hamzamed">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
-Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
+
