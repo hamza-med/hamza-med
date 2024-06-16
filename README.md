@@ -1,4 +1,9 @@
-<h1 align="center"> Hello, I'm Mohamed Hamza 👋</h1>
+<h1 align="center"> Hello 👋, I'm Mohamed Hamza </h1>
+
+<p align="right"> <h3>Profile Views</h3> <img src="https://komarev.com/ghpvc/?username=hamza-med&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" /> 
+  </p>
+<br/>
 
 ## 🧑‍💼 About Me
 - Full Stack Web Developer with expertise in both frontend and backend technologies.
@@ -6,6 +11,7 @@
 - Passionate about creating seamless and efficient web applications.
   
 - I'm currently open for job opportunities and collaboration on web projects!.
+<br/>
 
 ## 🛠️ Skills
 
@@ -54,6 +60,7 @@
   <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
 </div>
+<br/>
 
 ## 📊 GitHub Stats
 
