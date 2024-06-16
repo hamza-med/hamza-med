@@ -6,11 +6,13 @@
 <br/>
 
 ## 💼 About Me
-- Full Stack Web Developer with expertise in both frontend and backend technologies.
+- 🌱 Full Stack Web Developer with expertise in both frontend and backend technologies.
   
-- Passionate about creating seamless and efficient web applications.
+- 🔭 Passionate about creating seamless and efficient web applications.
+
+- ☁️ I've keen interest in cloud computing. So,I'm learning AWS
   
-- I'm currently open for job opportunities and collaboration on web projects!.
+- 🤝 I'm currently open for job opportunities and collaboration on web projects!.
 <br/>
 
 ## 🛠️ Skills
@@ -21,7 +23,6 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" /> 
- 
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
 </div>
   
