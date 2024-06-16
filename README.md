@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, I'm Mohamed Hamza 👋</h1>
 
-##  About Me
+## 🧑‍💼 About Me
 - Full Stack Web Developer with expertise in both frontend and backend technologies.
   
 - Passionate about creating seamless and efficient web applications.
