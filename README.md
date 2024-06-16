@@ -1,22 +1,27 @@
-# Hello, I'm Mohamed Hamza 👋
+<h1 align="center"> Hello, I'm Mohamed Hamza 👋</h1>
 
-## About Me
+##  About Me
 - Full Stack Web Developer with expertise in both frontend and backend technologies.
+  
 - Passionate about creating seamless and efficient web applications.
+  
 - I'm currently open for job opportunities and collaboration on web projects!.
 
-## Skills
+## 🛠️ Skills
 
-### 💻 Languages
+#### Languages
 
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" /> 
+ 
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+</div>
+  
 </div>
 
-### 🖥️ Frontend Skills
+#### Frontend Skills
 
 <div align="center">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" />
@@ -26,7 +31,7 @@
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </div>
 
-### 🛠️ Backend Skills
+#### Backend Skills
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white" alt="Symfony" />
@@ -34,7 +39,7 @@
   <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot" />
 </div>
 
-### ⚙️ Tools
+#### ⚙️ Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode" />
@@ -42,7 +47,7 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
 </div>
 
-### 🖥️ Administration
+#### 🖥️ Administration
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white" alt="Linux" />
@@ -58,7 +63,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-med&theme=radical" alt="GitHub Streak" />
 </div>
 
-## Get in Touch
+## 📬 Get in Touch
 
 <div align="center">
   <a href="mohamed.hamza@enicar.ucar.tn">
