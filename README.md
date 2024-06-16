@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
 </div>
 
-#### 🖥️ Administration
+#### Administration
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white" alt="Linux" />
