@@ -74,7 +74,7 @@
 ## 📬 Get in Touch
 
 <div align="center">
-  <a href="mohamed.hamza@enicar.ucar.tn">
+  <a href="mailto:mohamed.hamza@enicar.ucar.tn">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/mohamed-hamza2/">
