@@ -41,9 +41,9 @@
 #### Backend Skills
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white" alt="Symfony" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white" alt="Symfony" />
 </div>
 
 #### Tools
