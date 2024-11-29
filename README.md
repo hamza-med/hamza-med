@@ -10,7 +10,7 @@
   
 - 🔭 Passionate about creating seamless and efficient web applications.
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning AWS.
+- ☁️ I've keen interest in cloud computing, so I'm learning AWS.
   
 - 🤝 I'm currently open for job opportunities and collaboration on web projects !
 <br/>
